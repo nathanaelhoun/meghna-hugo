@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com"
-disableLanguages = ["en"]
+disableLanguages = ["En"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
