@@ -1,7 +1,6 @@
 baseURL = "https://examplesite.com"
 disableLanguages = ["en"]
 disqusShortname = ""
-draft = true
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
